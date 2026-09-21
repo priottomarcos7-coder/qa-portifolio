@@ -1,213 +1,314 @@
-# Portifólio de Engenharia de Qualidade
+# Portfólio de Engenharia de Qualidade de Software
 
-Este repositório reúne meus projetos práticos em Engenharia de Qualidade de Software, organizados para apresentar minha evolução no aprendizado de testes, automação, DevOps e qualidade de forma clara e objetiva.
+Repositório criado para reunir e apresentar meus principais projetos práticos em **Qualidade de Software (QA)**, desenvolvidos durante minha formação em Engenharia de Qualidade de Software pela EBAC.
 
-Aqui estão concentrados os trabalhos que envolvem automação web, testes de API, testes de unidade, performance e integração contínua, sempre baseados em cenários próximos à realidade de aplicações de mercado.
+O portfólio reúne experiências em **testes manuais, automação de UI, testes de API REST, BDD, testes mobile, testes unitários, performance, DevOps, Docker e Inteligência Artificial aplicada a QA**.
 
-## Objetivo do Portifólio
+> **Objetivo profissional:** atuar como **Analista de QA / Engenheiro de Qualidade de Software**, contribuindo para a qualidade das aplicações por meio de análise, testes, automação e melhoria contínua.
 
-- Demonstrar minhas experiências práticas em Qualidade de Software
+---
 
-- Apresentar projetos desenvolvidos ao longo dos meus estudos
+## Sobre minha formação
 
-- Mostrar a aplicação de boas práticas de testes, automação e organização
+Concluí o curso de **Engenharia de Qualidade de Software pela EBAC**, desenvolvendo uma visão prática do processo de qualidade, desde a análise de requisitos e planejamento dos testes até automação, integração contínua e análise dos resultados.
 
-- Evidenciar minha capacidade de analisar contextos, definir estratégias e tomar decisões técnicas
+Também sou formado em **Administração**, formação que contribui para minha organização, visão de processos, análise de problemas e acompanhamento de resultados.
 
-Mais do que listar ferramentas, este portifólio busca mostrar como eu peso em Qualidade.
+---
 
-## Estrutura do Portifólio
-├───Projetos
-| ├─── Automação Web
-| ├─── Automação de API
-| ├─── Testes de Unidade
-| ├─── Testes de Performance
-| ├─── CI/CD e Qualidade Contínua
-| ├─── Docker
-| ├─── Automação Web Avançada
-| ├─── Automação Mobile
-| └─── Testes com Inteligência Artificial
-├─── Desafios Práticos
-├─── Boas Práticas Adotadas
-└─── Considerações Finais
+# Destaques do portfólio
 
+## ⭐ Projeto principal — Automação de Testes de API REST
 
-## Projetos
+### Hub de Leitura — Testes de API
 
-Abaixo estão alguns dos principais projetos que fazem parte deste portifólio
+Projeto de automação de testes de uma **API REST**, desenvolvido com Cypress e JavaScript.
 
-Cada projeto possui seu próprio repositório e um README com a explicação do contexto, objetivo, estratégia de testes e instruções de execução
+Foram trabalhados cenários positivos e negativos, validação de códigos de status HTTP, respostas da API e regras de negócio, utilizando operações **GET, POST, PUT e DELETE**.
 
-### Automação Web
-
-Projeto focado em testes end to end de uma aplicação web, chamada Hub de Leitura validando fluxos críticos e comportamentos esperados do sistema.
-
-**Tecnologias utilizadas:**
-
+**Tecnologias:**
 - Cypress
-- Java Script
+- JavaScript
+- API REST
+- Git e GitHub
 
-Repositório:
+**Principais competências demonstradas:**
+- Automação de testes de API
+- Validação de respostas
+- Testes positivos e negativos
+- Validação de regras de negócio
+- Organização e manutenção de testes
 
-https://github.com/priottomarcos7-coder/hub-de-leitura-teste-ui-task
+👉 [Acessar o projeto](https://github.com/priottomarcos7-coder/hub-de-leitura-api-teste)
 
-### Automação de API
+---
 
-Projeto voltado para testes de API, cobrindo validações de regras de negócio, cenários positivos e negativos.
+# Projetos por área de conhecimento
 
-**Tecnologias utilizadas:**
+## 1. Agilidade, análise e relatórios de qualidade
 
+### Análise e planejamento de testes
+
+Durante a formação, desenvolvi atividades de análise de histórias de usuário, identificação de ambiguidades, levantamento de dúvidas para o produto e elaboração de cenários de teste.
+
+Foram aplicadas técnicas como:
+
+- Cenários positivos e negativos
+- Valores-limite
+- Classes de equivalência
+- Análise de riscos
+- Estratégia de testes
+- Plano de testes
+- Priorização baseada em risco
+- Apoio de Inteligência Artificial na elaboração e revisão dos testes
+
+Esse conjunto de atividades demonstra a capacidade de **entender o problema antes de definir como testar**, além de documentar e comunicar os riscos encontrados.
+
+---
+
+## 2. Automação de UI com Cypress
+
+### Hub de Leitura — Testes de UI
+
+Projeto de automação end-to-end de uma aplicação web, com foco na validação de fluxos funcionais e comportamentos esperados.
+
+**Tecnologias:**
 - Cypress
-- Testes de API REST
+- JavaScript
 
-Repositório:
+**Competências:**
+- Automação web
+- Testes funcionais
+- Testes end-to-end
+- Validação de fluxos críticos
 
-https://github.com/priottomarcos7-coder/hub-de-leitura-api-teste
+👉 [Acessar o projeto](https://github.com/priottomarcos7-coder/hub-de-leitura-teste-ui-task)
 
-### Testes de Unidade
+---
 
-Projeto com exemplos de testes de unidade aplicados a funções e regras isoladas, com foco em confiabilidade e manutenção do código.
+## 3. Testes avançados de UI e BDD
 
-**Tecnologias utilizadas:**
+### Cypress + Cucumber
 
-- Java Script
-- Jest
-- Testes unitários
+Projeto de automação utilizando uma abordagem baseada em **BDD**, com cenários escritos em Cucumber/Gherkin.
 
-Repositório:
+Também foram trabalhados recursos avançados do Cypress, como organização de comandos e interceptação de requisições.
 
-https://github.com/priottomarcos7-coder/Exerc-cio-M28-teste-jest
+**Tecnologias:**
+- Cypress
+- Cucumber
+- Gherkin
+- BDD
+- JavaScript
 
-### Testes de Performance
+👉 [Acessar o projeto](https://github.com/priottomarcos7-coder/cucumber-cypress-exemplo)
 
-Projeto demonstrando carga e análise de métricas de performance, avaliando riscos e possíveis gargalos da aplicação.
+---
 
-**Tecnologias utilizadas:**
+## 4. Testes de API REST
 
-- JMeter
-- k6
+### Automação de API — Hub de Leitura
 
-Repositório:
+Além do projeto principal, este trabalho representa a aplicação prática dos conhecimentos desenvolvidos nos módulos de **Testes de API**.
 
-https://github.com/priottomarcos7-coder/Exerc-cio-M22-EBAC-K6
+Foram trabalhadas validações de endpoints, códigos HTTP, respostas, regras de negócio e diferentes métodos de requisição.
 
-### CI/CD e Qualidade Contínua
+👉 [Acessar o projeto](https://github.com/priottomarcos7-coder/hub-de-leitura-api-teste)
 
-Projeto integrando testes automatizados em pipelines de CI/CD, demonstrando execução contínua e automação de qualidade ao longo do fluxo de entrega.
+---
 
-**Tecnologias utilizadas:**
+## 5. DevOps e qualidade contínua
 
-- GitHub Actions
+### CI/CD — Jenkins e GitHub Actions
+
+Projeto voltado à integração da automação de testes com práticas de **CI/CD**, demonstrando como os testes podem fazer parte do fluxo contínuo de desenvolvimento e entrega.
+
+**Tecnologias:**
 - Jenkins
+- GitHub Actions
+- Git
+- GitHub
+- Automação de testes
 
-Repositório:
+👉 [Acessar o projeto](https://github.com/priottomarcos7-coder/ci-cd-teste-exemplo)
 
-https://github.com/priottomarcos7-coder/ci-cd-teste-exemplo
+---
 
-### Docker
+## 6. Docker aplicado à qualidade
 
-Projeto utilizando containers para facilitar a configuração, execução e integração dos diferentes componentes da aplicação e dos testes automatizados.
+### Docker + Cypress
 
-**Tecnologias utilizadas:**
+Projeto utilizando containers para facilitar a configuração e execução dos componentes da aplicação e do ambiente de testes.
 
+**Tecnologias:**
 - Docker
 - Docker Compose
 - Cypress
 - Node.js
 
-Repositório:
+**Competências:**
+- Containerização
+- Configuração de ambientes
+- Integração entre aplicação e testes automatizados
 
-https://github.com/priottomarcos7-coder/docker-gms
+👉 [Acessar o projeto](https://github.com/priottomarcos7-coder/docker-gms)
 
-### Automação Web Avançada
+---
 
-Projeto de automação avançada utilizando Cypress e BDD, com foco na organização dos cenários de testes e na aproximação entre requisitos e automação.
+## 7. Testes Mobile
 
-**Tecnologias utilizadas:**
+### Automação Mobile — Android
 
-- Cypress
-- Cucumber
-- BDD
-- JavaScript
+Projeto de automação de testes para aplicação Android utilizando Appium e WebdriverIO.
 
-Repositório:
-
-https://github.com/priottomarcos7-coder/cucumber-cypress-exemplo
-
-### Automação Mobile
-
-Projeto de automação de testes em aplicação Android, utilizando Appium e WebdriverIO para execução dos testes automatizados.
-
-**Tecnologias utilizadas:**
-
+**Tecnologias:**
 - Appium
 - WebdriverIO
 - Android
 - Mocha
 - JavaScript
 
-Repositório:
+**Competências:**
+- Automação mobile
+- Testes em Android
+- Localização de elementos
+- Estruturação de testes automatizados
 
-https://github.com/priottomarcos7-coder/Exerc-cio-M26-EBAC-Wdio
+👉 [Acessar o projeto](https://github.com/priottomarcos7-coder/Exerc-cio-M26-EBAC-Wdio)
 
-### Testes com Inteligência Artificial
+---
 
-Projeto demonstrando a aplicação de Inteligência Artificial no processo de Qualidade de Software, utilizando IA como apoio na análise de requisitos, identificação de riscos, criação de cenários de testes e elaboração de estratégias de teste.
+## 8. Testes Unitários
 
-O projeto também considera a validação crítica das informações geradas pela IA, utilizando a ferramenta como apoio ao trabalho de QA e não como substituição da análise técnica.
+### JavaScript + Jest
 
-**Tecnologias e recursos utilizados:**
+Projeto de testes unitários aplicado a funções e regras isoladas, buscando aumentar a confiabilidade e facilitar a manutenção do código.
 
-- Inteligência Artificial
+**Tecnologias:**
+- JavaScript
+- Jest
+- Testes unitários
+- Coverage
+
+👉 [Acessar o projeto](https://github.com/priottomarcos7-coder/Exerc-cio-M28-teste-jest)
+
+---
+
+## 9. Testes de Performance
+
+### K6 e JMeter
+
+Projetos desenvolvidos para compreender e aplicar testes de desempenho, trabalhando com carga, usuários virtuais, tempo de execução e análise de resultados.
+
+**Tecnologias:**
+- K6
+- JMeter
+- Testes de carga
+- Métricas de performance
+
+👉 [Acessar o projeto K6](https://github.com/priottomarcos7-coder/Exerc-cio-M22-EBAC-K6)
+
+---
+
+## 10. Inteligência Artificial aplicada a QA
+
+### Testes com IA
+
+Projeto demonstrando a utilização de Inteligência Artificial como apoio ao processo de Qualidade de Software.
+
+Foram exploradas atividades como:
+
 - Engenharia de Prompt
 - Análise de requisitos
-- Geração de cenários de teste
+- Identificação de riscos
+- Criação de cenários de teste
+- Refinamento de prompts
+- Revisão crítica dos resultados gerados pela IA
+
+A proposta foi utilizar a IA como **ferramenta de apoio**, mantendo a análise e validação humana sobre os resultados.
+
+👉 [Acessar o projeto](https://github.com/priottomarcos7-coder/testes-IA)
+
+---
+
+# Competências desenvolvidas
+
+### Testes e qualidade
+- Testes funcionais
+- Testes de regressão
+- Testes de integração
+- Testes de API REST
+- Testes end-to-end
+- Testes unitários
+- Testes mobile
+- Testes de performance
 - Análise de riscos
-- Estratégia de testes
-- QA e automação
+- Planejamento de testes
+- BDD
 
-Repositório:
+### Automação
+- Cypress
+- JavaScript
+- Jest
+- Cucumber/Gherkin
+- Appium
+- WebdriverIO
 
-https://github.com/priottomarcos7-coder/testes-IA
+### DevOps e ferramentas
+- Jenkins
+- GitHub Actions
+- Docker
+- Docker Compose
+- Git
+- GitHub
 
-## Desafios práticos
+### Dados e análise
+- SQL
+- MongoDB
+- DevTools
+- Lighthouse
+- WAVE
+- Postman
 
-Além dos projetos completos, este portifólio também inclui desafios práticos voltados para o exercício de habilidades específicas.
+### Performance
+- K6
+- JMeter
 
-Os desafios tem como foco:
+### Inteligência Artificial
+- Engenharia de Prompt
+- IA aplicada a testes
+- Análise crítica de resultados gerados por IA
 
-- Raciocínio de testes
+---
 
-- Organização
+# O que este portfólio demonstra
 
-- Tomada de decisão
+Mais do que apresentar ferramentas, os projetos deste repositório demonstram minha evolução em diferentes etapas do processo de qualidade:
 
-- Aplicação de boas práticas
+**Analisar → Planejar → Testar → Automatizar → Integrar → Avaliar resultados → Melhorar**
 
-- Estratégia de testes voltado para automação
+Busquei desenvolver não apenas conhecimento técnico, mas também capacidade de **análise, organização, resolução de problemas, adaptação a diferentes ferramentas e compreensão dos impactos da qualidade no produto**.
 
-- Testes baseados em risco
+---
 
-Cada desafio descreve claramente o problema, o objetivo e o entregável esperado.
+# Formação
 
-## Boas Práticas Adotadas
+🎓 **Engenharia de Qualidade de Software — EBAC**  
+**Curso concluído**
 
-Ao longo dos projetos, busquei aplicar práticas como:
+🎓 **Administração — Ensino Superior**  
+**Formação concluída**
 
-- Organização clara de pastas e arquivos
+---
 
-- Uso adequado de `.gitignore`
+# Tecnologias principais
 
-- README's explicando o contexto e objetivos
+**JavaScript • Cypress • Jest • Cucumber/Gherkin • Appium • WebdriverIO • Postman • SQL • MongoDB • Docker • Jenkins • GitHub Actions • K6 • JMeter • Git • GitHub • DevTools • Lighthouse • WAVE • IA**
 
-- Códigos simples, legível e sustentável
+---
 
-- Foco em manutenção e clareza
+## Contato
 
-## Considerações Finais
+**GitHub:** [priottomarcos7-coder](https://github.com/priottomarcos7-coder)
 
-Ao longo do curso, tive a oportunidade de desenvolver conhecimentos teóricos e, principalmente, práticos sobre testes de software e automação. Durante essa trajetória, trabalhei com diferentes ferramentas e tecnologias, como JavaScript, Cypress, Jest, Cucumber, Git e GitHub, Docker, Jenkins, K6, JMeter, MongoDB e Appium.
-
-Os exercícios práticos também contribuíram para desenvolver minha capacidade de identificar erros, solucionar problemas de configuração e compreender melhor as diferentes etapas do processo de qualidade de software. Mesmo diante das dificuldades encontradas durante as atividades, cada desafio proporcionou novos aprendizados e maior autonomia técnica.
-
-Concluo essa formação com uma visão mais ampla sobre a área de QA e maior confiança para continuar aprimorando meus conhecimentos em testes, automação e qualidade de software, buscando aplicar esses aprendizados em projetos profissionais.
+Este portfólio está em evolução e será atualizado conforme novos projetos, estudos e experiências profissionais forem desenvolvidos.
