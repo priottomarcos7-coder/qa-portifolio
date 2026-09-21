@@ -310,5 +310,6 @@ Busquei desenvolver não apenas conhecimento técnico, mas também capacidade de
 ## Contato
 
 **GitHub:** [priottomarcos7-coder](https://github.com/priottomarcos7-coder)
+**LinkedIn:** [priottomarcos7-coder](https://www.linkedin.com/in/marcos-vinicius-priotto-qa/)
 
 Este portfólio está em evolução e será atualizado conforme novos projetos, estudos e experiências profissionais forem desenvolvidos.
