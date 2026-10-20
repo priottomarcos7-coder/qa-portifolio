@@ -43,6 +43,16 @@ Foram trabalhados cenários positivos e negativos, validação de códigos de st
 
 ---
 
+## Projeto E2E — Swag Labs com Cypress
+
+Projeto prático de automação end-to-end de uma loja virtual de demonstração, com cenários positivos e negativos para login, carrinho e checkout.
+
+**Tecnologias:** Cypress, JavaScript, Node.js e npm.
+
+👉 [Acessar o projeto e instruções de execução](./projeto-cypress-swag-labs/README.md)
+
+---
+
 # Projetos por área de conhecimento
 
 ## 1. Agilidade, análise e relatórios de qualidade
