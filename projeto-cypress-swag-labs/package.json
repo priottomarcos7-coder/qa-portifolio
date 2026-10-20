@@ -1,0 +1,14 @@
+{
+  "name": "cypress-swag-labs-e2e",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Projeto de portfólio de automação E2E com Cypress no Swag Labs",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:chrome": "cypress run --browser chrome"
+  },
+  "devDependencies": {
+    "cypress": "^14.5.0"
+  }
+}
