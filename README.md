@@ -49,7 +49,13 @@ Projeto prático de automação end-to-end de uma loja virtual de demonstração
 
 **Tecnologias:** Cypress, JavaScript, Node.js e npm.
 
-👉 [Acessar o projeto e instruções de execução](./projeto-cypress-swag-labs/README.md)
+**Cenários automatizados:**
+- Login com credenciais válidas e inválidas
+- Validação de usuário bloqueado
+- Adição e remoção de produtos do carrinho
+- Checkout com dados válidos e validação de campos obrigatórios
+
+👉 [Acessar o repositório do projeto e as instruções de execução](https://github.com/priottomarcos7-coder/cypress-swag-labs)
 
 ---
 
