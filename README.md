@@ -47,13 +47,14 @@ Foram trabalhados cenários positivos e negativos, validação de códigos de st
 
 Projeto prático de automação end-to-end de uma loja virtual de demonstração, com cenários positivos e negativos para login, carrinho e checkout.
 
-**Tecnologias:** Cypress, JavaScript, Node.js e npm.
+**Tecnologias:** Cypress, JavaScript, Node.js, npm e GitHub Actions.
 
-**Cenários automatizados:**
-- Login com credenciais válidas e inválidas
-- Validação de usuário bloqueado
-- Adição e remoção de produtos do carrinho
-- Checkout com dados válidos e validação de campos obrigatórios
+**O que o projeto demonstra:**
+- 9 cenários automatizados de login, carrinho e checkout
+- Organização dos testes com o padrão Page Objects
+- Relatório HTML com o resultado de cada cenário
+- Screenshots automáticas quando um teste falha em execução headless
+- Execução contínua pelo GitHub Actions, com artefatos para consultar os resultados
 
 👉 [Acessar o repositório do projeto e as instruções de execução](https://github.com/priottomarcos7-coder/cypress-swag-labs)
 
