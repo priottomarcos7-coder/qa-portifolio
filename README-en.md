@@ -108,6 +108,21 @@ The tests cover endpoints, HTTP status codes, responses, business rules, and dif
 
 [View the project](https://github.com/priottomarcos7-coder/hub-de-leitura-api-teste)
 
+### Product Catalog API
+
+A REST API for product registration and management, developed to practice automated API testing. It includes CRUD operations, data validation, interactive Swagger documentation, and Cypress automated tests integrated with GitHub Actions.
+
+**Technologies:** Node.js, Express, Cypress, Swagger/OpenAPI, and GitHub Actions.
+
+**Skills demonstrated:**
+- REST API test automation
+- HTTP response and business rule validation
+- Testing product creation, retrieval, update, and deletion flows
+- Endpoint documentation with Swagger
+- Continuous test integration with GitHub Actions
+
+[View the Product Catalog API project](https://github.com/priottomarcos7-coder/api-catalogo-produtos)
+
 ## 5. DevOps and Continuous Quality
 
 ### CI/CD — Jenkins and GitHub Actions
