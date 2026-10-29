@@ -134,6 +134,21 @@ Foram trabalhadas validações de endpoints, códigos HTTP, respostas, regras de
 
 👉 [Acessar o projeto](https://github.com/priottomarcos7-coder/hub-de-leitura-api-teste)
 
+### API de Catálogo de Produtos
+
+Projeto de uma API REST para cadastro e gerenciamento de produtos, desenvolvido para praticar testes automatizados de API. Inclui operações CRUD, validações de dados, documentação interativa com Swagger e testes automatizados com Cypress integrados ao GitHub Actions.
+
+**Tecnologias:** Node.js, Express, Cypress, Swagger/OpenAPI, GitHub Actions.
+
+**Competências demonstradas:**
+- Testes automatizados de API REST
+- Validação de respostas HTTP e regras de negócio
+- Testes dos fluxos de criação, consulta, atualização e exclusão de produtos
+- Documentação de endpoints com Swagger
+- Integração contínua dos testes com GitHub Actions
+
+👉 [Acessar o projeto API de Catálogo de Produtos](https://github.com/priottomarcos7-coder/api-catalogo-produtos)
+
 ---
 
 ## 5. DevOps e qualidade contínua
