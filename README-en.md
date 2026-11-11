@@ -52,6 +52,23 @@ Hands-on end-to-end automation project for a demo online store, with positive an
 
 [View the project and execution instructions](https://github.com/priottomarcos7-coder/cypress-swag-labs)
 
+## BDD Project — Cypress + Cucumber
+
+End-to-end automation project with six Gherkin scenarios covering direct access to Cucumber documentation, navigation after page reload, and responsive checks at mobile and desktop viewport sizes.
+
+**Technologies:** Cypress 14, JavaScript, Cucumber, Gherkin, BDD, and GitHub Actions.
+
+**What the project demonstrates:**
+- Scenario organization with `@smoke` and `@regression` tags
+- Route and page-heading validation
+- Horizontal overflow checks at different viewport sizes
+- Separate full-suite, Smoke, and Regression runs in GitHub Actions
+- Cucumber reports and execution evidence artifacts
+
+[View the project and test details](https://github.com/priottomarcos7-coder/cucumber-cypress-exemplo)
+
+---
+
 ---
 
 # Projects by Knowledge Area
@@ -90,11 +107,17 @@ End-to-end automation project for a web application, focused on validating funct
 
 ### Cypress + Cucumber
 
-Automation project using a **Behavior-Driven Development (BDD)** approach, with scenarios written in Cucumber/Gherkin.
+End-to-end automation project using **BDD**, with six Cucumber/Gherkin scenarios validating access to the public Cucumber documentation.
 
-Advanced Cypress features, including command organization and request interception, were also explored.
+**Test coverage:**
+- Direct access to the introduction, API reference, and FAQ pages
+- Navigation after page reload
+- Responsive checks at mobile (390 × 844) and desktop (1366 × 768) viewport sizes
+- Validation that the document does not exceed the browser viewport horizontally
 
-**Technologies:** Cypress, Cucumber, Gherkin, BDD, and JavaScript.
+**Technologies:** Cypress 14, JavaScript, Cucumber, Gherkin, BDD, and GitHub Actions.
+
+The pipeline separately runs the complete suite, Smoke, and Regression tests, and provides execution reports and evidence.
 
 [View the project](https://github.com/priottomarcos7-coder/cucumber-cypress-exemplo)
 
