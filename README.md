@@ -60,6 +60,23 @@ Projeto prático de automação end-to-end de uma loja virtual de demonstração
 
 👉 [Acessar o repositório do projeto e as instruções de execução](https://github.com/priottomarcos7-coder/cypress-swag-labs)
 
+## Projeto BDD — Cypress + Cucumber
+
+Projeto de automação end-to-end com seis cenários escritos em Gherkin, cobrindo acesso direto à documentação do Cucumber, navegação após atualização e verificações responsivas em resoluções mobile e desktop.
+
+**Tecnologias:** Cypress 14, JavaScript, Cucumber, Gherkin, BDD e GitHub Actions.
+
+**O que o projeto demonstra:**
+- Organização de cenários com tags `@smoke` e `@regression`
+- Validação de rotas e títulos das páginas
+- Verificação de ausência de rolagem horizontal em diferentes resoluções
+- Execução separada da suíte completa, Smoke e Regression no GitHub Actions
+- Geração de relatório Cucumber e armazenamento de evidências de execução
+
+👉 [Acessar o projeto e consultar os testes](https://github.com/priottomarcos7-coder/cucumber-cypress-exemplo)
+
+---
+
 ---
 
 # Projetos por área de conhecimento
@@ -109,16 +126,17 @@ Projeto de automação end-to-end de uma aplicação web, com foco na validaçã
 
 ### Cypress + Cucumber
 
-Projeto de automação utilizando uma abordagem baseada em **BDD**, com cenários escritos em Cucumber/Gherkin.
+Projeto de automação end-to-end utilizando **BDD**, com seis cenários escritos em Cucumber/Gherkin para validar o acesso à documentação pública do Cucumber.
 
-Também foram trabalhados recursos avançados do Cypress, como organização de comandos e interceptação de requisições.
+**Cobertura dos testes:**
+- Acesso direto à introdução, referência da API e perguntas frequentes
+- Navegação após atualização da página
+- Verificação responsiva em viewport mobile (390 × 844) e desktop (1366 × 768)
+- Validação de que o documento não ultrapassa horizontalmente a largura da janela
 
-**Tecnologias:**
-- Cypress
-- Cucumber
-- Gherkin
-- BDD
-- JavaScript
+**Tecnologias:** Cypress 14, JavaScript, Cucumber, Gherkin, BDD e GitHub Actions.
+
+A pipeline executa separadamente a suíte completa, Smoke e Regression, além de disponibilizar relatórios e evidências da execução.
 
 👉 [Acessar o projeto](https://github.com/priottomarcos7-coder/cucumber-cypress-exemplo)
 
