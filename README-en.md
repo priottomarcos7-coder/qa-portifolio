@@ -69,8 +69,6 @@ End-to-end automation project with six Gherkin scenarios covering direct access 
 
 ---
 
----
-
 # Projects by Knowledge Area
 
 ## 1. Agile Practices, Analysis, and Quality Reporting
