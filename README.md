@@ -77,8 +77,6 @@ Projeto de automação end-to-end com seis cenários escritos em Gherkin, cobrin
 
 ---
 
----
-
 # Projetos por área de conhecimento
 
 ## 1. Agilidade, análise e relatórios de qualidade
